@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="Local/api/real-estate/vendor/autoload.php" version="PHPUnit version can't be detected. Default PHP interpreter is not local" />
+            <info id="interpreter-2dba5671-0b61-489b-a4b7-ad36fb38eb61" version="10.5.28" />
+            <info id="interpreter-a70e7ae0-4b24-46c1-8432-4e50f71353b3" version="10.5.28" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\PokedexTest::test_fail_example":7,"Tests\\Unit\\PokedexTest::test_pokemon_get_all":8},"times":{"Tests\\Unit\\PokedexTest::test_example":0.001,"Tests\\Unit\\PokedexTest::test_fail_example":7.794,"Tests\\Unit\\PokedexTest::test_pokemon_get_all":1343.406}}
